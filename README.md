@@ -35,3 +35,14 @@ Toute autre option affiche un message d'erreur.
 ## Limites de cette première version
 Les tâches sont stockées uniquement en mémoire. Elles disparaissent lorsque
 le programme est fermé. Aucune base de données ni interface graphique n'est utilisée.
+
+## Fonctionnalités
+
+- Ajouter une nouvelle tâche
+- Afficher toutes les tâches
+- Rechercher une tâche
+
+## Lancement du programme
+
+Exécuter la commande suivante dans le terminal :
+python main.py
